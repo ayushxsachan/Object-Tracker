@@ -1,0 +1,4 @@
+timestamp,event_type,object_id,label,confidence,distance_pixels,message
+2026-04-26 20:36:47,missing,1,remote,0.415,27.3,Object Missing: remote #1
+2026-04-26 20:37:44,missing,1,phone,0.351,13.0,Object Missing: phone #1
+2026-04-26 20:39:09,missing,1,phone,0.446,0.0,Object Missing: phone #1
