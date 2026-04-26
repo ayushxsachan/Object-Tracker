@@ -1,0 +1,13 @@
+.venv/
+.deps/
+__pycache__/
+*.pyc
+
+# Runtime output
+logs/
+
+# Large downloaded/trained model files
+*.pt
+*.onnx
+*.tflite
+models/
